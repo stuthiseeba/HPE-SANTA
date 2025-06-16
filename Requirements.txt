@@ -1,0 +1,5 @@
+- Python 3.10+
+- Streamlit
+- Ollama (with tinyllama, llama2:7b, mistral models pulled)
+- MLflow
+- langgraph framework
